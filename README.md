@@ -1,2 +1,3 @@
-# prepcoursehenry
-repositorio de prueba del modulo 2 del curso de henry
+malena cardozo russo
+
+prueba de como crear un repositorio y clonarlo desde github a la computadora
